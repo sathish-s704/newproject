@@ -1,0 +1,6 @@
+learn fullstack course
+mern
+m - mongodb
+e-expree
+r- reactjs
+n-node js
